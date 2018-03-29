@@ -1,0 +1,8 @@
+{
+  "name": "M-PAC",
+  "app_id": "c6f1b329",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
